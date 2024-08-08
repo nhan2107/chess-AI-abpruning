@@ -5,3 +5,5 @@ itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
 Werkzeug==0.11.10
+tensorflow==2.17.0
+numba==0.60.0
