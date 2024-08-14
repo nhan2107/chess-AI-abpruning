@@ -1,3 +1,5 @@
+#Copy toàn bộ đoạn code trong file .py này vào 1 file .ipynb chạy trên Google Colab
+
 import math
 import numpy as np
 from numba import cuda, float32, njit, prange
